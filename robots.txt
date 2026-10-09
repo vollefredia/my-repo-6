@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vollefredia.github.io/my-repo-6/sitemap.xml
